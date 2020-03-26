@@ -1,0 +1,435 @@
+[
+  {
+    "pronounce": "あおい",
+    "word": "アオイ",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "auto": false,
+        "replace": [
+          "双葉碧",
+          "アオイ (編入生)"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "あかり",
+    "word": "アカリ",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "風宮あかり"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "あきの",
+    "word": "アキノ",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "藤堂秋乃"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "あやね",
+    "word": "アヤネ",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "北条綾音",
+          "アヤネ (クリスマス)"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "あゆみ",
+    "word": "アユミ",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "石橋あゆみ"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "ありさ",
+    "word": "アリサ",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false
+      }
+    ]
+  },
+  {
+    "pronounce": "あん",
+    "word": "アン",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false
+      }
+    ]
+  },
+  {
+    "pronounce": "あんな",
+    "word": "アンナ",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "柊杏奈"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "いお",
+    "word": "イオ",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "支倉伊緒",
+          "イオ (サマー)"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "いりや",
+    "word": "イリヤ",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "イリヤ・オーンスタイン",
+          "イリヤ (クリスマス)"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "うづき",
+    "word": "ウヅキ (デレマス)",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "島村卯月"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "えりこ",
+    "word": "エリコ",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "倉石恵理子",
+          "エリコ (バレンタイン)"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "かおり",
+    "word": "カオリ",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "喜屋武香織",
+          "カオリ (サマー)"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "かすみ",
+    "word": "カスミ",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "霧原かすみ",
+          "カスミ (マジカル)"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "かや",
+    "word": "カヤ",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "鬼道嘉夜"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "きゃる",
+    "word": "キャル",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "百地希留耶",
+          "キャル (サマー)",
+          "キャル (ニューイヤー)"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "きょうか",
+    "word": "キョウカ",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "氷川鏡華",
+          "キョウカ (ハロウィン)"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "くうか",
+    "word": "クウカ",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "遠見空花",
+          "クウカ (オーエド)"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "くりすてぃーな",
+    "word": "クリスティーナ",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "クリスティーナ・モーガン",
+          "クリスティーナ (クリスマス)"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "くるみ",
+    "word": "クルミ",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "栗林くるみ",
+          "クルミ (クリスマス)"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "くろえ",
+    "word": "クロエ",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "黒江花子"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "こっころ",
+    "word": "コッコロ",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "棗こころ",
+          "コッコロ (サマー)",
+          "コッコロ (ニューイヤー)"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "されん",
+    "word": "サレン",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "佐々木咲恋",
+          "サレン (サマー)"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "じーた",
+    "word": "ジータ",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false
+      }
+    ]
+  },
+  {
+    "pronounce": "しおり",
+    "word": "シオリ",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "柏崎栞",
+          "シオリ (マジカル)"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "しずる",
+    "word": "シズル",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "星野静流",
+          "シズル (バレンタイン)"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "しのぶ",
+    "word": "シノブ",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "上喜しのぶ",
+          "シノブ (ハロウィン)"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "じゅん",
+    "word": "ジュン",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "白銀純"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "すずな",
+    "word": "スズナ",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "美波鈴奈",
+          "スズナ (サマー)"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "すずめ",
+    "word": "スズメ",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "天野 すずめ",
+          "スズメ (サマー)",
+          "スズメ (ニューイヤー)"
+        ]
+      }
+    ]
+  }
+]
