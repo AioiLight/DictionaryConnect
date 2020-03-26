@@ -944,6 +944,17 @@
     ]
   },
   {
+    "pronounce": "るぅ",
+    "word": "ルゥ",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false
+      }
+    ]
+  },
+  {
     "pronounce": "るか",
     "word": "ルカ",
     "speech": "person",
