@@ -1,0 +1,255 @@
+[
+  {
+    "pronounce": "びしょくでん",
+    "word": "美食殿",
+    "speech": "org",
+    "comments": [
+      {
+        "comment": "プリコネのギルド名",
+        "auto": false,
+        "replace": [
+          "【美食殿】"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "とぅいんくるうぃっしゅ",
+    "word": "トゥインクルウィッシュ",
+    "speech": "org",
+    "comments": [
+      {
+        "comment": "プリコネのギルド名",
+        "auto": false,
+        "replace": [
+          "【トゥインクルウィッシュ】"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "らびりんす",
+    "word": "ラビリンス",
+    "speech": "org",
+    "comments": [
+      {
+        "comment": "プリコネのギルド名",
+        "auto": false,
+        "replace": [
+          "【ラビリンス】"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "かるみな",
+    "word": "カルミナ",
+    "speech": "org",
+    "comments": [
+      {
+        "comment": "プリコネのギルド名",
+        "auto": false,
+        "replace": [
+          "【カルミナ】"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "りとるりりかる",
+    "word": "リトルリリカル",
+    "speech": "org",
+    "comments": [
+      {
+        "comment": "プリコネのギルド名",
+        "auto": false,
+        "replace": [
+          "【リトルリリカル】"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "ふぉれすてぃえ",
+    "word": "フォレスティエ",
+    "speech": "org",
+    "comments": [
+      {
+        "comment": "プリコネのギルド名",
+        "auto": false,
+        "replace": [
+          "【フォレスティエ】"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "でぃあぼろす",
+    "word": "悪魔偽王国軍",
+    "speech": "org",
+    "comments": [
+      {
+        "comment": "プリコネのギルド名",
+        "auto": false,
+        "replace": [
+          "【悪魔偽王国軍】"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "ないとめあ",
+    "word": "王宮騎士団",
+    "speech": "org",
+    "comments": [
+      {
+        "comment": "プリコネのギルド名",
+        "auto": false,
+        "replace": [
+          "【王宮騎士団 (NIGHTMARE)】"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "されんでぃあきゅうごいん",
+    "word": "サレンディア救護院",
+    "speech": "org",
+    "comments": [
+      {
+        "comment": "プリコネのギルド名",
+        "auto": false,
+        "replace": [
+          "【サレンディア救護院】"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "かぉん",
+    "word": "自警団",
+    "speech": "org",
+    "comments": [
+      {
+        "comment": "プリコネのギルド名",
+        "auto": false,
+        "replace": [
+          "【自警団】",
+          "【自警団 (カォン)】"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "えりざべすぱーく",
+    "word": "牧場",
+    "speech": "org",
+    "comments": [
+      {
+        "comment": "プリコネのギルド名",
+        "auto": false,
+        "replace": [
+          "【牧場】",
+          "【牧場 (エリザベスパーク)】"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "めるくりうすざいだん",
+    "word": "メルクリウス財団",
+    "speech": "org",
+    "comments": [
+      {
+        "comment": "プリコネのギルド名",
+        "auto": false,
+        "replace": [
+          "【メルクリウス財団】"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "とわいらいときゃらばん",
+    "word": "トワイライトキャラバン",
+    "speech": "org",
+    "comments": [
+      {
+        "comment": "プリコネのギルド名",
+        "auto": false,
+        "replace": [
+          "【トワイライトキャラバン】"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "るーせんとがくいん",
+    "word": "ルーセント学院",
+    "speech": "org",
+    "comments": [
+      {
+        "comment": "プリコネのギルド名",
+        "auto": false,
+        "replace": [
+          "【ルーセント学院】"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "う゛ぁいすふりゅーげる",
+    "word": "ヴァイスフリューゲル",
+    "speech": "org",
+    "comments": [
+      {
+        "comment": "プリコネのギルド名",
+        "auto": false,
+        "replace": [
+          "【ヴァイスフリューゲル】",
+          "【ヴァイスフリューゲル ランドソル支部】"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "なかよしぶ",
+    "word": "なかよし部",
+    "speech": "org",
+    "comments": [
+      {
+        "comment": "プリコネのギルド名",
+        "auto": false,
+        "replace": [
+          "【聖テレサ女学院 (なかよし部)】",
+          "ユニちゃんズ"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "ゆにちゃんず",
+    "word": "ユニちゃんズ",
+    "speech": "org",
+    "comments": [
+      {
+        "comment": "プリコネのギルド名？",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "pronounce": "どらごんずねすと",
+    "word": "ドラゴンズネスト",
+    "speech": "org",
+    "comments": [
+      {
+        "comment": "プリコネのギルド名？",
+        "auto": false,
+        "replace": [
+          "ドラゴンズネスト"
+        ]
+      }
+    ]
+  }
+]
