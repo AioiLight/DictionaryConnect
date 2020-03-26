@@ -152,6 +152,17 @@
     ]
   },
   {
+    "pronounce": "えみりあ",
+    "word": "エミリア",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false
+      }
+    ]
+  },
+  {
     "pronounce": "えりこ",
     "word": "エリコ",
     "speech": "person",
@@ -868,6 +879,17 @@
     ]
   },
   {
+    "pronounce": "らむ",
+    "word": "ラム",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false
+      }
+    ]
+  },
+  {
     "pronounce": "りの",
     "word": "リノ",
     "speech": "person",
@@ -957,6 +979,17 @@
           "士条怜",
           "レイ (ニューイヤー)"
         ]
+      }
+    ]
+  },
+  {
+    "pronounce": "れむ",
+    "word": "レム",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false
       }
     ]
   }
