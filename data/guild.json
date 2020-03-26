@@ -1,253 +1,253 @@
 [
   {
-    "pronounce": "‚Ñ‚µ‚å‚­‚Å‚ñ",
-    "word": "”üH“a",
+    "pronounce": "ã³ã—ã‚‡ãã§ã‚“",
+    "word": "ç¾Žé£Ÿæ®¿",
     "speech": "org",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒMƒ‹ƒh–¼",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚®ãƒ«ãƒ‰å",
         "auto": false,
         "replace": [
-          "y”üH“az"
+          "ã€ç¾Žé£Ÿæ®¿ã€‘"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚Æ‚£‚¢‚ñ‚­‚é‚¤‚¡‚Á‚µ‚ã",
-    "word": "ƒgƒDƒCƒ“ƒNƒ‹ƒEƒBƒbƒVƒ…",
+    "pronounce": "ã¨ã…ã„ã‚“ãã‚‹ã†ãƒã£ã—ã‚…",
+    "word": "ãƒˆã‚¥ã‚¤ãƒ³ã‚¯ãƒ«ã‚¦ã‚£ãƒƒã‚·ãƒ¥",
     "speech": "org",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒMƒ‹ƒh–¼",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚®ãƒ«ãƒ‰å",
         "auto": false,
         "replace": [
-          "yƒgƒDƒCƒ“ƒNƒ‹ƒEƒBƒbƒVƒ…z"
+          "ã€ãƒˆã‚¥ã‚¤ãƒ³ã‚¯ãƒ«ã‚¦ã‚£ãƒƒã‚·ãƒ¥ã€‘"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚ç‚Ñ‚è‚ñ‚·",
-    "word": "ƒ‰ƒrƒŠƒ“ƒX",
+    "pronounce": "ã‚‰ã³ã‚Šã‚“ã™",
+    "word": "ãƒ©ãƒ“ãƒªãƒ³ã‚¹",
     "speech": "org",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒMƒ‹ƒh–¼",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚®ãƒ«ãƒ‰å",
         "auto": false,
         "replace": [
-          "yƒ‰ƒrƒŠƒ“ƒXz"
+          "ã€ãƒ©ãƒ“ãƒªãƒ³ã‚¹ã€‘"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚©‚é‚Ý‚È",
-    "word": "ƒJƒ‹ƒ~ƒi",
+    "pronounce": "ã‹ã‚‹ã¿ãª",
+    "word": "ã‚«ãƒ«ãƒŸãƒŠ",
     "speech": "org",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒMƒ‹ƒh–¼",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚®ãƒ«ãƒ‰å",
         "auto": false,
         "replace": [
-          "yƒJƒ‹ƒ~ƒiz"
+          "ã€ã‚«ãƒ«ãƒŸãƒŠã€‘"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚è‚Æ‚é‚è‚è‚©‚é",
-    "word": "ƒŠƒgƒ‹ƒŠƒŠƒJƒ‹",
+    "pronounce": "ã‚Šã¨ã‚‹ã‚Šã‚Šã‹ã‚‹",
+    "word": "ãƒªãƒˆãƒ«ãƒªãƒªã‚«ãƒ«",
     "speech": "org",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒMƒ‹ƒh–¼",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚®ãƒ«ãƒ‰å",
         "auto": false,
         "replace": [
-          "yƒŠƒgƒ‹ƒŠƒŠƒJƒ‹z"
+          "ã€ãƒªãƒˆãƒ«ãƒªãƒªã‚«ãƒ«ã€‘"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚Ó‚§‚ê‚·‚Ä‚¡‚¦",
-    "word": "ƒtƒHƒŒƒXƒeƒBƒG",
+    "pronounce": "ãµã‰ã‚Œã™ã¦ãƒãˆ",
+    "word": "ãƒ•ã‚©ãƒ¬ã‚¹ãƒ†ã‚£ã‚¨",
     "speech": "org",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒMƒ‹ƒh–¼",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚®ãƒ«ãƒ‰å",
         "auto": false,
         "replace": [
-          "yƒtƒHƒŒƒXƒeƒBƒGz"
+          "ã€ãƒ•ã‚©ãƒ¬ã‚¹ãƒ†ã‚£ã‚¨ã€‘"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚Å‚¡‚ ‚Ú‚ë‚·",
-    "word": "ˆ«–‚‹U‰¤‘ŒR",
+    "pronounce": "ã§ãƒã‚ã¼ã‚ã™",
+    "word": "æ‚ªé­”å½çŽ‹å›½è»",
     "speech": "org",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒMƒ‹ƒh–¼",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚®ãƒ«ãƒ‰å",
         "auto": false,
         "replace": [
-          "yˆ«–‚‹U‰¤‘ŒRz"
+          "ã€æ‚ªé­”å½çŽ‹å›½è»ã€‘"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚È‚¢‚Æ‚ß‚ ",
-    "word": "‰¤‹{‹RŽm’c",
+    "pronounce": "ãªã„ã¨ã‚ã‚",
+    "word": "çŽ‹å®®é¨Žå£«å›£",
     "speech": "org",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒMƒ‹ƒh–¼",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚®ãƒ«ãƒ‰å",
         "auto": false,
         "replace": [
-          "y‰¤‹{‹RŽm’c (NIGHTMARE)z"
+          "ã€çŽ‹å®®é¨Žå£«å›£ (NIGHTMARE)ã€‘"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚³‚ê‚ñ‚Å‚¡‚ ‚«‚ã‚¤‚²‚¢‚ñ",
-    "word": "ƒTƒŒƒ“ƒfƒBƒA‹~Œì‰@",
+    "pronounce": "ã•ã‚Œã‚“ã§ãƒã‚ãã‚…ã†ã”ã„ã‚“",
+    "word": "ã‚µãƒ¬ãƒ³ãƒ‡ã‚£ã‚¢æ•‘è­·é™¢",
     "speech": "org",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒMƒ‹ƒh–¼",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚®ãƒ«ãƒ‰å",
         "auto": false,
         "replace": [
-          "yƒTƒŒƒ“ƒfƒBƒA‹~Œì‰@z"
+          "ã€ã‚µãƒ¬ãƒ³ãƒ‡ã‚£ã‚¢æ•‘è­·é™¢ã€‘"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚©‚§‚ñ",
-    "word": "Ž©Œx’c",
+    "pronounce": "ã‹ã‰ã‚“",
+    "word": "è‡ªè­¦å›£",
     "speech": "org",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒMƒ‹ƒh–¼",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚®ãƒ«ãƒ‰å",
         "auto": false,
         "replace": [
-          "yŽ©Œx’cz",
-          "yŽ©Œx’c (ƒJƒHƒ“)z"
+          "ã€è‡ªè­¦å›£ã€‘",
+          "ã€è‡ªè­¦å›£ (ã‚«ã‚©ãƒ³)ã€‘"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚¦‚è‚´‚×‚·‚Ï[‚­",
-    "word": "–qê",
+    "pronounce": "ãˆã‚Šã–ã¹ã™ã±ãƒ¼ã",
+    "word": "ç‰§å ´",
     "speech": "org",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒMƒ‹ƒh–¼",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚®ãƒ«ãƒ‰å",
         "auto": false,
         "replace": [
-          "y–qêz",
-          "y–qê (ƒGƒŠƒUƒxƒXƒp[ƒN)z"
+          "ã€ç‰§å ´ã€‘",
+          "ã€ç‰§å ´ (ã‚¨ãƒªã‚¶ãƒ™ã‚¹ãƒ‘ãƒ¼ã‚¯)ã€‘"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚ß‚é‚­‚è‚¤‚·‚´‚¢‚¾‚ñ",
-    "word": "ƒƒ‹ƒNƒŠƒEƒXà’c",
+    "pronounce": "ã‚ã‚‹ãã‚Šã†ã™ã–ã„ã ã‚“",
+    "word": "ãƒ¡ãƒ«ã‚¯ãƒªã‚¦ã‚¹è²¡å›£",
     "speech": "org",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒMƒ‹ƒh–¼",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚®ãƒ«ãƒ‰å",
         "auto": false,
         "replace": [
-          "yƒƒ‹ƒNƒŠƒEƒXà’cz"
+          "ã€ãƒ¡ãƒ«ã‚¯ãƒªã‚¦ã‚¹è²¡å›£ã€‘"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚Æ‚í‚¢‚ç‚¢‚Æ‚«‚á‚ç‚Î‚ñ",
-    "word": "ƒgƒƒCƒ‰ƒCƒgƒLƒƒƒ‰ƒoƒ“",
+    "pronounce": "ã¨ã‚ã„ã‚‰ã„ã¨ãã‚ƒã‚‰ã°ã‚“",
+    "word": "ãƒˆãƒ¯ã‚¤ãƒ©ã‚¤ãƒˆã‚­ãƒ£ãƒ©ãƒãƒ³",
     "speech": "org",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒMƒ‹ƒh–¼",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚®ãƒ«ãƒ‰å",
         "auto": false,
         "replace": [
-          "yƒgƒƒCƒ‰ƒCƒgƒLƒƒƒ‰ƒoƒ“z"
+          "ã€ãƒˆãƒ¯ã‚¤ãƒ©ã‚¤ãƒˆã‚­ãƒ£ãƒ©ãƒãƒ³ã€‘"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚é[‚¹‚ñ‚Æ‚ª‚­‚¢‚ñ",
-    "word": "ƒ‹[ƒZƒ“ƒgŠw‰@",
+    "pronounce": "ã‚‹ãƒ¼ã›ã‚“ã¨ãŒãã„ã‚“",
+    "word": "ãƒ«ãƒ¼ã‚»ãƒ³ãƒˆå­¦é™¢",
     "speech": "org",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒMƒ‹ƒh–¼",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚®ãƒ«ãƒ‰å",
         "auto": false,
         "replace": [
-          "yƒ‹[ƒZƒ“ƒgŠw‰@z"
+          "ã€ãƒ«ãƒ¼ã‚»ãƒ³ãƒˆå­¦é™¢ã€‘"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚¤J‚Ÿ‚¢‚·‚Ó‚è‚ã[‚°‚é",
-    "word": "ƒ”ƒ@ƒCƒXƒtƒŠƒ…[ƒQƒ‹",
+    "pronounce": "ã†ã‚›ãã„ã™ãµã‚Šã‚…ãƒ¼ã’ã‚‹",
+    "word": "ãƒ´ã‚¡ã‚¤ã‚¹ãƒ•ãƒªãƒ¥ãƒ¼ã‚²ãƒ«",
     "speech": "org",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒMƒ‹ƒh–¼",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚®ãƒ«ãƒ‰å",
         "auto": false,
         "replace": [
-          "yƒ”ƒ@ƒCƒXƒtƒŠƒ…[ƒQƒ‹z",
-          "yƒ”ƒ@ƒCƒXƒtƒŠƒ…[ƒQƒ‹ ƒ‰ƒ“ƒhƒ\ƒ‹Žx•”z"
+          "ã€ãƒ´ã‚¡ã‚¤ã‚¹ãƒ•ãƒªãƒ¥ãƒ¼ã‚²ãƒ«ã€‘",
+          "ã€ãƒ´ã‚¡ã‚¤ã‚¹ãƒ•ãƒªãƒ¥ãƒ¼ã‚²ãƒ« ãƒ©ãƒ³ãƒ‰ã‚½ãƒ«æ”¯éƒ¨ã€‘"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚È‚©‚æ‚µ‚Ô",
-    "word": "‚È‚©‚æ‚µ•”",
+    "pronounce": "ãªã‹ã‚ˆã—ã¶",
+    "word": "ãªã‹ã‚ˆã—éƒ¨",
     "speech": "org",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒMƒ‹ƒh–¼",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚®ãƒ«ãƒ‰å",
         "auto": false,
         "replace": [
-          "y¹ƒeƒŒƒT—Šw‰@ (‚È‚©‚æ‚µ•”)z",
-          "ƒ†ƒj‚¿‚á‚ñƒY"
+          "ã€è–ãƒ†ãƒ¬ã‚µå¥³å­¦é™¢ (ãªã‹ã‚ˆã—éƒ¨)ã€‘",
+          "ãƒ¦ãƒ‹ã¡ã‚ƒã‚“ã‚º"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚ä‚É‚¿‚á‚ñ‚¸",
-    "word": "ƒ†ƒj‚¿‚á‚ñƒY",
+    "pronounce": "ã‚†ã«ã¡ã‚ƒã‚“ãš",
+    "word": "ãƒ¦ãƒ‹ã¡ã‚ƒã‚“ã‚º",
     "speech": "org",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒMƒ‹ƒh–¼H",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚®ãƒ«ãƒ‰åï¼Ÿ",
         "auto": false
       }
     ]
   },
   {
-    "pronounce": "‚Ç‚ç‚²‚ñ‚¸‚Ë‚·‚Æ",
-    "word": "ƒhƒ‰ƒSƒ“ƒYƒlƒXƒg",
+    "pronounce": "ã©ã‚‰ã”ã‚“ãšã­ã™ã¨",
+    "word": "ãƒ‰ãƒ©ã‚´ãƒ³ã‚ºãƒã‚¹ãƒˆ",
     "speech": "org",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒMƒ‹ƒh–¼",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚®ãƒ«ãƒ‰å",
         "auto": false,
         "replace": [
-          "ƒhƒ‰ƒSƒ“ƒYƒlƒXƒg"
+          "ãƒ‰ãƒ©ã‚´ãƒ³ã‚ºãƒã‚¹ãƒˆ"
         ]
       }
     ]

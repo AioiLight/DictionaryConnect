@@ -1,1006 +1,1006 @@
 [
   {
-    "pronounce": "‚ ‚¨‚¢",
-    "word": "ƒAƒIƒC",
+    "pronounce": "ã‚ãŠã„",
+    "word": "ã‚¢ã‚ªã‚¤",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "auto": false,
         "replace": [
-          "‘o—t•É",
-          "ƒAƒIƒC (•Ò“ü¶)"
+          "åŒè‘‰ç¢§",
+          "ã‚¢ã‚ªã‚¤ (ç·¨å…¥ç”Ÿ)"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚ ‚©‚è",
-    "word": "ƒAƒJƒŠ",
+    "pronounce": "ã‚ã‹ã‚Š",
+    "word": "ã‚¢ã‚«ãƒª",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "•—‹{‚ ‚©‚è"
+          "é¢¨å®®ã‚ã‹ã‚Š"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚ ‚«‚Ì",
-    "word": "ƒAƒLƒm",
+    "pronounce": "ã‚ãã®",
+    "word": "ã‚¢ã‚­ãƒ",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "“¡“°H”T"
+          "è—¤å ‚ç§‹ä¹ƒ"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚ ‚â‚Ë",
-    "word": "ƒAƒ„ƒl",
+    "pronounce": "ã‚ã‚„ã­",
+    "word": "ã‚¢ãƒ¤ãƒ",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "–kğˆ»‰¹",
-          "ƒAƒ„ƒl (ƒNƒŠƒXƒ}ƒX)"
+          "åŒ—æ¡ç¶¾éŸ³",
+          "ã‚¢ãƒ¤ãƒ (ã‚¯ãƒªã‚¹ãƒã‚¹)"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚ ‚ä‚İ",
-    "word": "ƒAƒ†ƒ~",
+    "pronounce": "ã‚ã‚†ã¿",
+    "word": "ã‚¢ãƒ¦ãƒŸ",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "Î‹´‚ ‚ä‚İ"
+          "çŸ³æ©‹ã‚ã‚†ã¿"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚ ‚è‚³",
-    "word": "ƒAƒŠƒT",
+    "pronounce": "ã‚ã‚Šã•",
+    "word": "ã‚¢ãƒªã‚µ",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false
       }
     ]
   },
   {
-    "pronounce": "‚ ‚ñ",
-    "word": "ƒAƒ“",
+    "pronounce": "ã‚ã‚“",
+    "word": "ã‚¢ãƒ³",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false
       }
     ]
   },
   {
-    "pronounce": "‚ ‚ñ‚È",
-    "word": "ƒAƒ“ƒi",
+    "pronounce": "ã‚ã‚“ãª",
+    "word": "ã‚¢ãƒ³ãƒŠ",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "•AˆÇ“Ş",
-          "ƒAƒ“ƒlƒ[ƒ[EƒtƒHƒ“EƒVƒ…ƒeƒbƒqƒpƒ‹ƒ€"
+          "æŸŠæå¥ˆ",
+          "ã‚¢ãƒ³ãƒãƒ­ãƒ¼ã‚¼ãƒ»ãƒ•ã‚©ãƒ³ãƒ»ã‚·ãƒ¥ãƒ†ãƒƒãƒ’ãƒ‘ãƒ«ãƒ "
         ]
       }
     ]
   },
   {
-    "pronounce": "‚¢‚¨",
-    "word": "ƒCƒI",
+    "pronounce": "ã„ãŠ",
+    "word": "ã‚¤ã‚ª",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "x‘qˆÉ",
-          "ƒCƒI (ƒTƒ}[)"
+          "æ”¯å€‰ä¼Šç·’",
+          "ã‚¤ã‚ª (ã‚µãƒãƒ¼)"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚¢‚è‚â",
-    "word": "ƒCƒŠƒ„",
+    "pronounce": "ã„ã‚Šã‚„",
+    "word": "ã‚¤ãƒªãƒ¤",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "ƒCƒŠƒ„EƒI[ƒ“ƒXƒ^ƒCƒ“",
-          "ƒCƒŠƒ„ (ƒNƒŠƒXƒ}ƒX)"
+          "ã‚¤ãƒªãƒ¤ãƒ»ã‚ªãƒ¼ãƒ³ã‚¹ã‚¿ã‚¤ãƒ³",
+          "ã‚¤ãƒªãƒ¤ (ã‚¯ãƒªã‚¹ãƒã‚¹)"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚¤‚Ã‚«",
-    "word": "ƒEƒdƒL (ƒfƒŒƒ}ƒX)",
+    "pronounce": "ã†ã¥ã",
+    "word": "ã‚¦ãƒ…ã‚­ (ãƒ‡ãƒ¬ãƒã‚¹)",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "“‡‘º‰KŒ"
+          "å³¶æ‘å¯æœˆ"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚¦‚İ‚è‚ ",
-    "word": "ƒGƒ~ƒŠƒA",
+    "pronounce": "ãˆã¿ã‚Šã‚",
+    "word": "ã‚¨ãƒŸãƒªã‚¢",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false
       }
     ]
   },
   {
-    "pronounce": "‚¦‚è‚±",
-    "word": "ƒGƒŠƒR",
+    "pronounce": "ãˆã‚Šã“",
+    "word": "ã‚¨ãƒªã‚³",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "‘qÎŒb—q",
-          "ƒGƒŠƒR (ƒoƒŒƒ“ƒ^ƒCƒ“)"
+          "å€‰çŸ³æµç†å­",
+          "ã‚¨ãƒªã‚³ (ãƒãƒ¬ãƒ³ã‚¿ã‚¤ãƒ³)"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚©‚¨‚è",
-    "word": "ƒJƒIƒŠ",
+    "pronounce": "ã‹ãŠã‚Š",
+    "word": "ã‚«ã‚ªãƒª",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "Šì‰®•D",
-          "ƒJƒIƒŠ (ƒTƒ}[)"
+          "å–œå±‹æ­¦é¦™ç¹”",
+          "ã‚«ã‚ªãƒª (ã‚µãƒãƒ¼)"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚©‚·‚İ",
-    "word": "ƒJƒXƒ~",
+    "pronounce": "ã‹ã™ã¿",
+    "word": "ã‚«ã‚¹ãƒŸ",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "–¶Œ´‚©‚·‚İ",
-          "ƒJƒXƒ~ (ƒ}ƒWƒJƒ‹)"
+          "éœ§åŸã‹ã™ã¿",
+          "ã‚«ã‚¹ãƒŸ (ãƒã‚¸ã‚«ãƒ«)"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚©‚â",
-    "word": "ƒJƒ„",
+    "pronounce": "ã‹ã‚„",
+    "word": "ã‚«ãƒ¤",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "‹S“¹‰Ã–é"
+          "é¬¼é“å˜‰å¤œ"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚«‚á‚é",
-    "word": "ƒLƒƒƒ‹",
+    "pronounce": "ãã‚ƒã‚‹",
+    "word": "ã‚­ãƒ£ãƒ«",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "•S’nŠó—¯–ë",
-          "ƒLƒƒƒ‹ (ƒTƒ}[)",
-          "ƒLƒƒƒ‹ (ƒjƒ…[ƒCƒ„[)"
+          "ç™¾åœ°å¸Œç•™è€¶",
+          "ã‚­ãƒ£ãƒ« (ã‚µãƒãƒ¼)",
+          "ã‚­ãƒ£ãƒ« (ãƒ‹ãƒ¥ãƒ¼ã‚¤ãƒ¤ãƒ¼)"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚«‚å‚¤‚©",
-    "word": "ƒLƒ‡ƒEƒJ",
+    "pronounce": "ãã‚‡ã†ã‹",
+    "word": "ã‚­ãƒ§ã‚¦ã‚«",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "•Xì‹¾‰Ø",
-          "ƒLƒ‡ƒEƒJ (ƒnƒƒEƒBƒ“)"
+          "æ°·å·é¡è¯",
+          "ã‚­ãƒ§ã‚¦ã‚« (ãƒãƒ­ã‚¦ã‚£ãƒ³)"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚­‚¤‚©",
-    "word": "ƒNƒEƒJ",
+    "pronounce": "ãã†ã‹",
+    "word": "ã‚¯ã‚¦ã‚«",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "‰“Œ©‹ó‰Ô",
-          "ƒNƒEƒJ (ƒI[ƒGƒh)"
+          "é è¦‹ç©ºèŠ±",
+          "ã‚¯ã‚¦ã‚« (ã‚ªãƒ¼ã‚¨ãƒ‰)"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚­‚è‚·‚Ä‚¡[‚È",
-    "word": "ƒNƒŠƒXƒeƒB[ƒi",
+    "pronounce": "ãã‚Šã™ã¦ãƒãƒ¼ãª",
+    "word": "ã‚¯ãƒªã‚¹ãƒ†ã‚£ãƒ¼ãƒŠ",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "ƒNƒŠƒXƒeƒB[ƒiEƒ‚[ƒKƒ“",
-          "ƒNƒŠƒXƒeƒB[ƒi (ƒNƒŠƒXƒ}ƒX)"
+          "ã‚¯ãƒªã‚¹ãƒ†ã‚£ãƒ¼ãƒŠãƒ»ãƒ¢ãƒ¼ã‚¬ãƒ³",
+          "ã‚¯ãƒªã‚¹ãƒ†ã‚£ãƒ¼ãƒŠ (ã‚¯ãƒªã‚¹ãƒã‚¹)"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚­‚é‚İ",
-    "word": "ƒNƒ‹ƒ~",
+    "pronounce": "ãã‚‹ã¿",
+    "word": "ã‚¯ãƒ«ãƒŸ",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "ŒI—Ñ‚­‚é‚İ",
-          "ƒNƒ‹ƒ~ (ƒNƒŠƒXƒ}ƒX)"
+          "æ —æ—ãã‚‹ã¿",
+          "ã‚¯ãƒ«ãƒŸ (ã‚¯ãƒªã‚¹ãƒã‚¹)"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚­‚ë‚¦",
-    "word": "ƒNƒƒG",
+    "pronounce": "ãã‚ãˆ",
+    "word": "ã‚¯ãƒ­ã‚¨",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "•]‰Ôq"
+          "é»’æ±ŸèŠ±å­"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚±‚Á‚±‚ë",
-    "word": "ƒRƒbƒRƒ",
+    "pronounce": "ã“ã£ã“ã‚",
+    "word": "ã‚³ãƒƒã‚³ãƒ­",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "¥‚±‚±‚ë",
-          "ƒRƒbƒRƒ (ƒTƒ}[)",
-          "ƒRƒbƒRƒ (ƒjƒ…[ƒCƒ„[)"
+          "æ£—ã“ã“ã‚",
+          "ã‚³ãƒƒã‚³ãƒ­ (ã‚µãƒãƒ¼)",
+          "ã‚³ãƒƒã‚³ãƒ­ (ãƒ‹ãƒ¥ãƒ¼ã‚¤ãƒ¤ãƒ¼)"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚³‚ê‚ñ",
-    "word": "ƒTƒŒƒ“",
+    "pronounce": "ã•ã‚Œã‚“",
+    "word": "ã‚µãƒ¬ãƒ³",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "²X–Øç—ö",
-          "ƒTƒŒƒ“ (ƒTƒ}[)"
+          "ä½ã€…æœ¨å’²æ‹",
+          "ã‚µãƒ¬ãƒ³ (ã‚µãƒãƒ¼)"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚¶[‚½",
-    "word": "ƒW[ƒ^",
+    "pronounce": "ã˜ãƒ¼ãŸ",
+    "word": "ã‚¸ãƒ¼ã‚¿",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false
       }
     ]
   },
   {
-    "pronounce": "‚µ‚¨‚è",
-    "word": "ƒVƒIƒŠ",
+    "pronounce": "ã—ãŠã‚Š",
+    "word": "ã‚·ã‚ªãƒª",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "”èx",
-          "ƒVƒIƒŠ (ƒ}ƒWƒJƒ‹)"
+          "æŸå´æ ",
+          "ã‚·ã‚ªãƒª (ãƒã‚¸ã‚«ãƒ«)"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚µ‚¸‚é",
-    "word": "ƒVƒYƒ‹",
+    "pronounce": "ã—ãšã‚‹",
+    "word": "ã‚·ã‚ºãƒ«",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "¯–ìÃ—¬",
-          "ƒVƒYƒ‹ (ƒoƒŒƒ“ƒ^ƒCƒ“)"
+          "æ˜Ÿé‡é™æµ",
+          "ã‚·ã‚ºãƒ« (ãƒãƒ¬ãƒ³ã‚¿ã‚¤ãƒ³)"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚µ‚Ì‚Ô",
-    "word": "ƒVƒmƒu",
+    "pronounce": "ã—ã®ã¶",
+    "word": "ã‚·ãƒãƒ–",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "ãŠì‚µ‚Ì‚Ô",
-          "ƒVƒmƒu (ƒnƒƒEƒBƒ“)"
+          "ä¸Šå–œã—ã®ã¶",
+          "ã‚·ãƒãƒ– (ãƒãƒ­ã‚¦ã‚£ãƒ³)"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚¶‚ã‚ñ",
-    "word": "ƒWƒ…ƒ“",
+    "pronounce": "ã˜ã‚…ã‚“",
+    "word": "ã‚¸ãƒ¥ãƒ³",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "”’‹âƒ"
+          "ç™½éŠ€ç´”"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚·‚¸‚È",
-    "word": "ƒXƒYƒi",
+    "pronounce": "ã™ãšãª",
+    "word": "ã‚¹ã‚ºãƒŠ",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "”ü”g—é“Ş",
-          "ƒXƒYƒi (ƒTƒ}[)"
+          "ç¾æ³¢éˆ´å¥ˆ",
+          "ã‚¹ã‚ºãƒŠ (ã‚µãƒãƒ¼)"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚·‚¸‚ß",
-    "word": "ƒXƒYƒ",
+    "pronounce": "ã™ãšã‚",
+    "word": "ã‚¹ã‚ºãƒ¡",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "“V–ì‚·‚¸‚ß",
-          "ƒXƒYƒ (ƒTƒ}[)",
-          "ƒXƒYƒ (ƒjƒ…[ƒCƒ„[)"
+          "å¤©é‡ã™ãšã‚",
+          "ã‚¹ã‚ºãƒ¡ (ã‚µãƒãƒ¼)",
+          "ã‚¹ã‚ºãƒ¡ (ãƒ‹ãƒ¥ãƒ¼ã‚¤ãƒ¤ãƒ¼)"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚½‚Ü‚«",
-    "word": "ƒ^ƒ}ƒL",
+    "pronounce": "ãŸã¾ã",
+    "word": "ã‚¿ãƒã‚­",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "‹{â‚½‚Ü‚«"
+          "å®®å‚ãŸã¾ã"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚¿‚©",
-    "word": "ƒ`ƒJ",
+    "pronounce": "ã¡ã‹",
+    "word": "ãƒã‚«",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "OŠpç‰Ì",
-          "ƒ`ƒJ (ƒNƒŠƒXƒ}ƒX)"
+          "ä¸‰è§’åƒæ­Œ",
+          "ãƒã‚« (ã‚¯ãƒªã‚¹ãƒã‚¹)"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚Â‚Ş‚¬",
-    "word": "ƒcƒ€ƒM",
+    "pronounce": "ã¤ã‚€ã",
+    "word": "ãƒ„ãƒ ã‚®",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "–š‹{‚Â‚Ş‚¬"
+          "ç¹­å®®ã¤ã‚€ã"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚Æ‚à",
-    "word": "ƒgƒ‚",
+    "pronounce": "ã¨ã‚‚",
+    "word": "ãƒˆãƒ¢",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "Œä‹vŠÔ’q"
+          "å¾¡ä¹…é–“æ™º"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚È‚È‚©",
-    "word": "ƒiƒiƒJ",
+    "pronounce": "ãªãªã‹",
+    "word": "ãƒŠãƒŠã‚«",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "’O–ìµX"
+          "ä¸¹é‡ä¸ƒã€…é¦™"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚É‚Ì‚ñ",
-    "word": "ƒjƒmƒ“",
+    "pronounce": "ã«ã®ã‚“",
+    "word": "ãƒ‹ãƒãƒ³",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "ƒjƒmƒ“EƒWƒ…ƒx[ƒ‹",
-          "ƒjƒmƒ“ (ƒI[ƒGƒh)"
+          "ãƒ‹ãƒãƒ³ãƒ»ã‚¸ãƒ¥ãƒ™ãƒ¼ãƒ«",
+          "ãƒ‹ãƒãƒ³ (ã‚ªãƒ¼ã‚¨ãƒ‰)"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚Ë‚Ë‚©",
-    "word": "ƒlƒlƒJ",
+    "pronounce": "ã­ã­ã‹",
+    "word": "ãƒãƒã‚«",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "Œ»mÀ—X‰Ô"
+          "ç¾å£«å®Ÿä¼¼ã€…èŠ±"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚Ì‚¼‚İ",
-    "word": "ƒmƒ]ƒ~",
+    "pronounce": "ã®ãã¿",
+    "word": "ãƒã‚¾ãƒŸ",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "÷ˆä–]",
-          "ƒmƒ]ƒ~ (ƒNƒŠƒXƒ}ƒX)"
+          "æ¡œäº•æœ›",
+          "ãƒã‚¾ãƒŸ (ã‚¯ãƒªã‚¹ãƒã‚¹)"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚Í‚Â‚Ë",
-    "word": "ƒnƒcƒl",
+    "pronounce": "ã¯ã¤ã­",
+    "word": "ãƒãƒ„ãƒ",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "”è‰‰¹"
+          "æŸå´åˆéŸ³"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚Ğ‚æ‚è",
-    "word": "ƒqƒˆƒŠ",
+    "pronounce": "ã²ã‚ˆã‚Š",
+    "word": "ãƒ’ãƒ¨ãƒª",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "tç‚Ğ‚æ‚è",
-          "ƒqƒˆƒŠ (ƒjƒ…[ƒCƒ„[)"
+          "æ˜¥å’²ã²ã‚ˆã‚Š",
+          "ãƒ’ãƒ¨ãƒª (ãƒ‹ãƒ¥ãƒ¼ã‚¤ãƒ¤ãƒ¼)"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚Ø‚±‚è[‚Ê",
-    "word": "ƒyƒRƒŠ[ƒk",
+    "pronounce": "ãºã“ã‚Šãƒ¼ã¬",
+    "word": "ãƒšã‚³ãƒªãƒ¼ãƒŒ",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "ƒ†[ƒXƒeƒBƒAƒiEƒtƒHƒ“EƒAƒXƒgƒ‰ƒCƒA",
-          "ƒyƒRƒŠ[ƒk (ƒTƒ}[)",
-          "ƒyƒRƒŠ[ƒk (ƒvƒŠƒ“ƒZƒX)"
+          "ãƒ¦ãƒ¼ã‚¹ãƒ†ã‚£ã‚¢ãƒŠãƒ»ãƒ•ã‚©ãƒ³ãƒ»ã‚¢ã‚¹ãƒˆãƒ©ã‚¤ã‚¢",
+          "ãƒšã‚³ãƒªãƒ¼ãƒŒ (ã‚µãƒãƒ¼)",
+          "ãƒšã‚³ãƒªãƒ¼ãƒŒ (ãƒ—ãƒªãƒ³ã‚»ã‚¹)"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚Ü‚±‚Æ",
-    "word": "ƒ}ƒRƒg",
+    "pronounce": "ã¾ã“ã¨",
+    "word": "ãƒã‚³ãƒˆ",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "ˆÀŒ|^‹Õ",
-          "ƒ}ƒRƒg (ƒTƒ}[)"
+          "å®‰èŠ¸çœŸç´",
+          "ãƒã‚³ãƒˆ (ã‚µãƒãƒ¼)"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚Ü‚Â‚è",
-    "word": "ƒ}ƒcƒŠ",
+    "pronounce": "ã¾ã¤ã‚Š",
+    "word": "ãƒãƒ„ãƒª",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "DŒ´ää»"
+          "ç¹”åŸèŒ‰è‰"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚Ü‚Ğ‚é",
-    "word": "ƒ}ƒqƒ‹",
+    "pronounce": "ã¾ã²ã‚‹",
+    "word": "ãƒãƒ’ãƒ«",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "–ìŒË‚Ü‚Ğ‚é"
+          "é‡æˆ¸ã¾ã²ã‚‹"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚Ü‚Ù",
-    "word": "ƒ}ƒz",
+    "pronounce": "ã¾ã»",
+    "word": "ãƒãƒ›",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "•P‹{^•à",
-          "ƒ}ƒz (ƒTƒ}[)"
+          "å§«å®®çœŸæ­©",
+          "ãƒãƒ› (ã‚µãƒãƒ¼)"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚İ‚¨",
-    "word": "ƒ~ƒI (ƒfƒŒƒ}ƒX)",
+    "pronounce": "ã¿ãŠ",
+    "word": "ãƒŸã‚ª (ãƒ‡ãƒ¬ãƒã‚¹)",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "–{“c–¢‰›"
+          "æœ¬ç”°æœªå¤®"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚İ‚¨",
-    "word": "ƒ~ƒI (ƒfƒŒƒ}ƒX)",
+    "pronounce": "ã¿ãŠ",
+    "word": "ãƒŸã‚ª (ãƒ‡ãƒ¬ãƒã‚¹)",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "–{“c–¢‰›"
+          "æœ¬ç”°æœªå¤®"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚İ‚³‚«",
-    "word": "ƒ~ƒTƒL",
+    "pronounce": "ã¿ã•ã",
+    "word": "ãƒŸã‚µã‚­",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "‹Êò”üç",
-          "ƒ~ƒTƒL (ƒnƒƒEƒBƒ“)"
+          "ç‰æ³‰ç¾å’²",
+          "ãƒŸã‚µã‚­ (ãƒãƒ­ã‚¦ã‚£ãƒ³)"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚İ‚³‚Æ",
-    "word": "ƒ~ƒTƒg",
+    "pronounce": "ã¿ã•ã¨",
+    "word": "ãƒŸã‚µãƒˆ",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "ˆ¤ì”ü—¢"
+          "æ„›å·ç¾é‡Œ"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚İ‚»‚¬",
-    "word": "ƒ~ƒ\ƒM",
+    "pronounce": "ã¿ãã",
+    "word": "ãƒŸã‚½ã‚®",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "•ä‚‚İ‚»‚¬",
-          "ƒ~ƒ\ƒM (ƒnƒƒEƒBƒ“)"
+          "ç©‚é«˜ã¿ãã",
+          "ãƒŸã‚½ã‚® (ãƒãƒ­ã‚¦ã‚£ãƒ³)"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚İ‚Â‚«",
-    "word": "ƒ~ƒcƒL",
+    "pronounce": "ã¿ã¤ã",
+    "word": "ãƒŸãƒ„ã‚­",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "ªƒ–•l[Œ"
+          "å®µãƒ¶æµœæ·±æœˆ"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚İ‚Ó‚ä",
-    "word": "ƒ~ƒtƒ†",
+    "pronounce": "ã¿ãµã‚†",
+    "word": "ãƒŸãƒ•ãƒ¦",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "‘å_”ü“~",
-          "ƒ~ƒtƒ† (ƒTƒ}[)"
+          "å¤§ç¥ç¾å†¬",
+          "ãƒŸãƒ•ãƒ¦ (ã‚µãƒãƒ¼)"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚İ‚İ",
-    "word": "ƒ~ƒ~",
+    "pronounce": "ã¿ã¿",
+    "word": "ãƒŸãƒŸ",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "ˆ©ƒ~ƒ~",
-          "ƒ~ƒ~ (ƒnƒƒEƒBƒ“)"
+          "èŒœãƒŸãƒŸ",
+          "ãƒŸãƒŸ (ãƒãƒ­ã‚¦ã‚£ãƒ³)"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚İ‚â‚±",
-    "word": "ƒ~ƒ„ƒR",
+    "pronounce": "ã¿ã‚„ã“",
+    "word": "ãƒŸãƒ¤ã‚³",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "o‰_‹{q",
-          "ƒ~ƒ„ƒR (ƒnƒƒEƒBƒ“)"
+          "å‡ºé›²å®®å­",
+          "ãƒŸãƒ¤ã‚³ (ãƒãƒ­ã‚¦ã‚£ãƒ³)"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚Ş‚¢‚İ",
-    "word": "ƒ€ƒCƒ~",
+    "pronounce": "ã‚€ã„ã¿",
+    "word": "ãƒ ã‚¤ãƒŸ",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "‰€ã–µˆË–¢",
-          "ƒmƒEƒFƒ€"
+          "åœ’ä¸ŠçŸ›ä¾æœª",
+          "ãƒã‚¦ã‚§ãƒ "
         ]
       }
     ]
   },
   {
-    "pronounce": "‚à‚É‚©",
-    "word": "ƒ‚ƒjƒJ",
+    "pronounce": "ã‚‚ã«ã‹",
+    "word": "ãƒ¢ãƒ‹ã‚«",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "ƒ‚ƒjƒJEƒ”ƒ@ƒCƒXƒ”ƒBƒ“ƒg"
+          "ãƒ¢ãƒ‹ã‚«ãƒ»ãƒ´ã‚¡ã‚¤ã‚¹ãƒ´ã‚£ãƒ³ãƒˆ"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚ä‚¢",
-    "word": "ƒ†ƒC",
+    "pronounce": "ã‚†ã„",
+    "word": "ãƒ¦ã‚¤",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "‘–ì—Dˆß",
-          "ƒ†ƒC (ƒjƒ…[ƒCƒ„[)"
+          "è‰é‡å„ªè¡£",
+          "ãƒ¦ã‚¤ (ãƒ‹ãƒ¥ãƒ¼ã‚¤ãƒ¤ãƒ¼)"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚ä‚©‚è",
-    "word": "ƒ†ƒJƒŠ",
+    "pronounce": "ã‚†ã‹ã‚Š",
+    "word": "ãƒ¦ã‚«ãƒª",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "ˆ»£‚ä‚©‚è"
+          "ç¶¾ç€¬ã‚†ã‹ã‚Š"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚ä‚«",
-    "word": "ƒ†ƒL",
+    "pronounce": "ã‚†ã",
+    "word": "ãƒ¦ã‚­",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "“ø‘ºá"
+          "è™¹æ‘é›ª"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚æ‚è",
-    "word": "ƒˆƒŠ",
+    "pronounce": "ã‚ˆã‚Š",
+    "word": "ãƒ¨ãƒª",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "•—‹{‚æ‚è"
+          "é¢¨å®®ã‚ˆã‚Š"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚ç‚Ş",
-    "word": "ƒ‰ƒ€",
+    "pronounce": "ã‚‰ã‚€",
+    "word": "ãƒ©ãƒ ",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false
       }
     ]
   },
   {
-    "pronounce": "‚è‚Ì",
-    "word": "ƒŠƒm",
+    "pronounce": "ã‚Šã®",
+    "word": "ãƒªãƒ",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "ˆßƒmç—”T"
+          "è¡£ãƒå’²ç’ƒä¹ƒ"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚è‚Ü",
-    "word": "ƒŠƒ}",
+    "pronounce": "ã‚Šã¾",
+    "word": "ãƒªãƒ",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false
       }
     ]
   },
   {
-    "pronounce": "‚è‚ñ",
-    "word": "ƒŠƒ“",
+    "pronounce": "ã‚Šã‚“",
+    "word": "ãƒªãƒ³",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "X‹ß—é"
+          "æ£®è¿‘éˆ´"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚è‚ñ",
-    "word": "ƒŠƒ“ (ƒfƒŒƒ}ƒX)",
+    "pronounce": "ã‚Šã‚“",
+    "word": "ãƒªãƒ³ (ãƒ‡ãƒ¬ãƒã‚¹)",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "a’J™z"
+          "æ¸‹è°·å‡›"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚é‚£",
-    "word": "ƒ‹ƒD",
+    "pronounce": "ã‚‹ã…",
+    "word": "ãƒ«ã‚¥",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false
       }
     ]
   },
   {
-    "pronounce": "‚é‚©",
-    "word": "ƒ‹ƒJ",
+    "pronounce": "ã‚‹ã‹",
+    "word": "ãƒ«ã‚«",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "‘å“ô—¬‰Ä"
+          "å¤§åˆ€æ´—æµå¤"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚é‚È",
-    "word": "ƒ‹ƒi",
+    "pronounce": "ã‚‹ãª",
+    "word": "ãƒ«ãƒŠ",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false
       }
     ]
   },
   {
-    "pronounce": "‚ê‚¢",
-    "word": "ƒŒƒC",
+    "pronounce": "ã‚Œã„",
+    "word": "ãƒ¬ã‚¤",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false,
         "replace": [
-          "mğ—å",
-          "ƒŒƒC (ƒjƒ…[ƒCƒ„[)"
+          "å£«æ¡æ€œ",
+          "ãƒ¬ã‚¤ (ãƒ‹ãƒ¥ãƒ¼ã‚¤ãƒ¤ãƒ¼)"
         ]
       }
     ]
   },
   {
-    "pronounce": "‚ê‚Ş",
-    "word": "ƒŒƒ€",
+    "pronounce": "ã‚Œã‚€",
+    "word": "ãƒ¬ãƒ ",
     "speech": "person",
     "comments": [
       {
-        "comment": "ƒvƒŠƒRƒl‚ÌƒLƒƒƒ‰ƒNƒ^[",
+        "comment": "ãƒ—ãƒªã‚³ãƒã®ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼",
         "autoReplace": false
       }
     ]

@@ -12,7 +12,9 @@ exit
 
 :generate
 
-call "tool\DictionaryMate" "--input" "data\chara.json" "--output" "%1%2\chara.txt" "--ime" "%2"
-call "tool\DictionaryMate" "--input" "data\guild.json" "--output" "%1%2\guild.txt" "--ime" "%2"
+call "tool\DictionaryMate" "--input" "data\chara.json" "--output" "%1%2" "--ime" "%2"
+move "%1%2\%2.txt" "%1%2\chara.txt"
+call "tool\DictionaryMate" "--input" "data\guild.json" "--output" "%1%2" "--ime" "%2"
+move "%1%2\%2.txt" "%1%2\guild.txt"
 
 exit /b
