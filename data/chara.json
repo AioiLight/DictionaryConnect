@@ -591,5 +591,373 @@
         ]
       }
     ]
+  },
+  {
+    "pronounce": "まこと",
+    "word": "マコト",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "安芸真琴",
+          "マコト (サマー)"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "まつり",
+    "word": "マツリ",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "織原茉莉"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "まひる",
+    "word": "マヒル",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "野戸まひる"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "まほ",
+    "word": "マホ",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "姫宮真歩",
+          "マホ (サマー)"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "みお",
+    "word": "ミオ (デレマス)",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "本田未央"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "みお",
+    "word": "ミオ (デレマス)",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "本田未央"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "みさき",
+    "word": "ミサキ",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "玉泉美咲",
+          "ミサキ (ハロウィン)"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "みさと",
+    "word": "ミサト",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "愛川美里"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "みそぎ",
+    "word": "ミソギ",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "穂高みそぎ",
+          "ミソギ (ハロウィン)"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "みつき",
+    "word": "ミツキ",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "宵ヶ浜深月"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "みふゆ",
+    "word": "ミフユ",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "大神美冬",
+          "ミフユ (サマー)"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "みみ",
+    "word": "ミミ",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "茜ミミ",
+          "ミミ (ハロウィン)"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "みやこ",
+    "word": "ミヤコ",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "出雲宮子",
+          "ミヤコ (ハロウィン)"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "むいみ",
+    "word": "ムイミ",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "園上矛依未",
+          "ノウェム"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "もにか",
+    "word": "モニカ",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "モニカ・ヴァイスヴィント"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "ゆい",
+    "word": "ユイ",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "草野優衣",
+          "ユイ (ニューイヤー)"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "ゆかり",
+    "word": "ユカリ",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "綾瀬ゆかり"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "ゆき",
+    "word": "ユキ",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "虹村雪"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "より",
+    "word": "ヨリ",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "風宮より"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "りの",
+    "word": "リノ",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "衣ノ咲璃乃"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "りま",
+    "word": "リマ",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false
+      }
+    ]
+  },
+  {
+    "pronounce": "りん",
+    "word": "リン",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "森近鈴"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "りん",
+    "word": "リン (デレマス)",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "渋谷凛"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "るか",
+    "word": "ルカ",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "大刀洗流夏"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "るな",
+    "word": "ルナ",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false
+      }
+    ]
+  },
+  {
+    "pronounce": "れい",
+    "word": "レイ",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "士条怜",
+          "レイ (ニューイヤー)"
+        ]
+      }
+    ]
   }
 ]
