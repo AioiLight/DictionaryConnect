@@ -425,9 +425,169 @@
         "comment": "プリコネのキャラクター",
         "autoReplace": false,
         "replace": [
-          "天野 すずめ",
+          "天野すずめ",
           "スズメ (サマー)",
           "スズメ (ニューイヤー)"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "たまき",
+    "word": "タマキ",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "宮坂たまき"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "ちか",
+    "word": "チカ",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "三角千歌",
+          "チカ (クリスマス)"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "つむぎ",
+    "word": "ツムギ",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "繭宮つむぎ"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "とも",
+    "word": "トモ",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "御久間智"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "ななか",
+    "word": "ナナカ",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "丹野七々香"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "にのん",
+    "word": "ニノン",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "ニノン・ジュベール",
+          "ニノン (オーエド)"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "ねねか",
+    "word": "ネネカ",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "現士実似々花"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "のぞみ",
+    "word": "ノゾミ",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "桜井望",
+          "ノゾミ (クリスマス)"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "はつね",
+    "word": "ハツネ",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "柏崎初音"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "ひより",
+    "word": "ヒヨリ",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "春咲ひより",
+          "ヒヨリ (ニューイヤー)"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "ぺこりーぬ",
+    "word": "ペコリーヌ",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "ユースティアナ・フォン・アストライア",
+          "ペコリーヌ (サマー)",
+          "ペコリーヌ (プリンセス)"
         ]
       }
     ]
