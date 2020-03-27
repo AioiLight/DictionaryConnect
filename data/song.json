@@ -77,6 +77,39 @@
     ]
   },
   {
+    "pronounce": "ひだまり",
+    "word": "ひだまり",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "プリコネチャンネル Re:Dive エンディング曲",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "pronounce": "とびきりでぃあまいふれんず",
+    "word": "とびきりDear My Friends!",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "プリコネRのペコリーヌ キャラクターソング",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "pronounce": "こころおもい",
+    "word": "心想い ～ココロオモイ～",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "プリコネRのコッコロ キャラクターソング",
+        "auto": false
+      }
+    ]
+  },
+  {
     "pronounce": "きみのえがおがみたいから",
     "word": "君の笑顔が見たいから",
     "speech": "proper",
