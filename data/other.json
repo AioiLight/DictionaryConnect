@@ -1,0 +1,77 @@
+[
+  {
+    "pronounce": "ぷりんせすこねくとりだいぶ",
+    "word": "プリンセスコネクト！Re:Dive",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "Cygamesのゲーム",
+        "auto": false,
+        "replace": [
+          "プリコネR"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "ぷりんせすこねくと",
+    "word": "プリンセスコネクト！",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "サイバーエージェントのゲーム",
+        "auto": false,
+        "replace": [
+          "プリコネ"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "ぷりこね",
+    "word": "プリコネ",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "プリンセスコネクト！シリーズの略称",
+        "auto": false,
+        "replace": [
+          "プリコネR"
+        ]
+      }
+    ]
+  },
+  {
+    "pronounce": "ぷりこねっりだいぶ",
+    "word": "ぷりこねっ！りだいぶ",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "プリコネRの公式4コマ漫画",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "pronounce": "ぷりこねちゃんねるりだいぶ",
+    "word": "プリコネチャンネルRe:Dive",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "プリコネRの公式ラジオ番組",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "pronounce": "ゆうかとじゅりのぷりんせすちゃんねる",
+    "word": "優歌と樹里のプリンセスチャンネル",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "プリコネの公式ラジオ番組",
+        "auto": false
+      }
+    ]
+  }
+]
