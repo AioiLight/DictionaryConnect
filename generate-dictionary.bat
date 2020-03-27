@@ -21,6 +21,9 @@ move "%1%2\%2.txt" "%1%2\guild.txt"
 rem ‹È
 call "tool\DictionaryMate" "--input" "data\song.json" "--output" "%1%2" "--ime" "%2"
 move "%1%2\%2.txt" "%1%2\song.txt"
+rem ƒCƒxƒ“ƒg
+call "tool\DictionaryMate" "--input" "data\event.json" "--output" "%1%2" "--ime" "%2"
+move "%1%2\%2.txt" "%1%2\event.txt"
 rem ‚»‚Ì‘¼
 call "tool\DictionaryMate" "--input" "data\other.json" "--output" "%1%2" "--ime" "%2"
 move "%1%2\%2.txt" "%1%2\other.txt"
