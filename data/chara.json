@@ -677,20 +677,6 @@
     ]
   },
   {
-    "pronounce": "みお",
-    "word": "ミオ (デレマス)",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "本田未央"
-        ]
-      }
-    ]
-  },
-  {
     "pronounce": "みさき",
     "word": "ミサキ",
     "speech": "person",
