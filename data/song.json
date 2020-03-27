@@ -1,0 +1,57 @@
+[
+  {
+    "pronounce": "つなぐもの",
+    "word": "つなぐもの",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "プリコネのメインテーマ曲",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "pronounce": "Lost Princess",
+    "word": "Lost Princess",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "プリコネRの第1部OP曲",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "pronounce": "Connecting Happy!!",
+    "word": "Connecting Happy!!",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "プリコネRの第1部ED曲",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "pronounce": "Mirage Game",
+    "word": "Mirage Game",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "プリコネRの第2部OP曲",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "pronounce": "Yes! Precious Harmony!",
+    "word": "Yes! Precious Harmony!",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "プリコネRの第2部ED曲",
+        "auto": false
+      }
+    ]
+  }
+]
