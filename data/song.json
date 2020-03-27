@@ -55,6 +55,61 @@
     ]
   },
   {
+    "pronounce": "あぶそりゅーとしーくれっと",
+    "word": "Absolute Secret",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "プリコネR 第1部8章ED曲",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "pronounce": "しゃいにんぐふゅーちゃー",
+    "word": "Shining Future",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "プリコネR 第1部9章挿入歌",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "pronounce": "きみのえがおがみたいから",
+    "word": "君の笑顔が見たいから",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "プリコネRのノゾミ キャラクターソング",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "pronounce": "あまのじゃくはーと",
+    "word": "アマノジャクハート！",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "プリコネRのツムギ キャラクターソング",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "pronounce": "がぜへのちかい",
+    "word": "風への誓い",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "プリコネRのチカ キャラクターソング",
+        "auto": false
+      }
+    ]
+  },
+  {
     "pronounce": "すまいりーこんとらすと",
     "word": "Smiley Contrast",
     "speech": "proper",
