@@ -176,17 +176,6 @@
     ]
   },
   {
-    "pronounce": "ぴーすふるちゃんぷるー",
-    "word": "Peaceful*ちゃんぷるー",
-    "speech": "proper",
-    "comments": [
-      {
-        "comment": "プリコネRのイベントED曲",
-        "auto": false
-      }
-    ]
-  },
-  {
     "pronounce": "えがおのまいほーむ",
     "word": "えがおのマイホーム",
     "speech": "proper",
@@ -231,18 +220,7 @@
     ]
   },
   {
-    "pronounce": "もっとふたりのぱーてぃーないと",
-    "word": "もっと！ふたりのパ～ティ～ナイト",
-    "speech": "proper",
-    "comments": [
-      {
-        "comment": "プリコネRのイベントED曲",
-        "auto": false
-      }
-    ]
-  },
-  {
-    "pronounce": "さいつよでしょ、でしょ",
+    "pronounce": "さいつよでしょでしょ",
     "word": "サイツヨでしょ、でしょ？",
     "speech": "proper",
     "comments": [
