@@ -11,7 +11,7 @@
     ]
   },
   {
-    "pronounce": "Lost Princess",
+    "pronounce": "ろすとぷりんせす",
     "word": "Lost Princess",
     "speech": "proper",
     "comments": [
@@ -22,7 +22,7 @@
     ]
   },
   {
-    "pronounce": "Connecting Happy!!",
+    "pronounce": "こねくてぃんぐはっぴー",
     "word": "Connecting Happy!!",
     "speech": "proper",
     "comments": [
@@ -33,7 +33,7 @@
     ]
   },
   {
-    "pronounce": "Mirage Game",
+    "pronounce": "みらーじゅげーむ",
     "word": "Mirage Game",
     "speech": "proper",
     "comments": [
@@ -44,12 +44,298 @@
     ]
   },
   {
-    "pronounce": "Yes! Precious Harmony!",
+    "pronounce": "いぇすぷれしゃすはーもにー",
     "word": "Yes! Precious Harmony!",
     "speech": "proper",
     "comments": [
       {
         "comment": "プリコネRの第2部ED曲",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "pronounce": "すまいりーこんとらすと",
+    "word": "Smiley Contrast",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "プリコネRのイベントED曲",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "pronounce": "りとるあどべんちゃー",
+    "word": "リトルアドベンチャー",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "プリコネRのイベントED曲",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "pronounce": "ぴーすふるちゃんぷるー",
+    "word": "Peaceful*ちゃんぷるー",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "プリコネRのイベントED曲",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "pronounce": "ぴーすふるちゃんぷるー",
+    "word": "Peaceful*ちゃんぷるー",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "プリコネRのイベントED曲",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "pronounce": "えがおのまいほーむ",
+    "word": "えがおのマイホーム",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "プリコネRのイベントED曲",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "pronounce": "きんきらはぴねす",
+    "word": "キンキラ☆ハピネス！",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "プリコネRのイベントED曲",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "pronounce": "あるーふねすこーど",
+    "word": "Aloofness Code",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "プリコネRのイベントED曲",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "pronounce": "もっとふたりのぱーてぃーないと",
+    "word": "もっと！ふたりのパ～ティ～ナイト",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "プリコネRのイベントED曲",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "pronounce": "もっとふたりのぱーてぃーないと",
+    "word": "もっと！ふたりのパ～ティ～ナイト",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "プリコネRのイベントED曲",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "pronounce": "さいつよでしょ、でしょ",
+    "word": "サイツヨでしょ、でしょ？",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "プリコネRのイベントED曲",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "pronounce": "でぃんぐどんぐほーりーないと",
+    "word": "Ding Dong Holy Night♪",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "プリコネRのイベントED曲",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "pronounce": "とぅいんくるすたーず",
+    "word": "TwinkleStars",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "プリコネRのイベントED曲",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "pronounce": "すーぱーちょこれーと",
+    "word": "SUPER CHOCOLATE",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "プリコネRのイベントED曲",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "pronounce": "みかいけつなおもい",
+    "word": "未解決な想い",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "プリコネRのイベントED曲",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "pronounce": "くろっしんぐですてぃにー",
+    "word": "Crossing Destiny",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "プリコネRのイベントED曲",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "pronounce": "はくよくのぐろーりえ",
+    "word": "白翼のグローリエ",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "プリコネRのイベントED曲",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "pronounce": "りれーしょん",
+    "word": "Re:lation",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "プリコネRのイベントED曲",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "pronounce": "せのびふぁーすときす",
+    "word": "背伸びFirst Kiss",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "プリコネRのイベントED曲",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "pronounce": "うぃーあーごーるでん",
+    "word": "We Are Golden",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "プリコネRのイベントED曲",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "pronounce": "なかよしせんせーしょん",
+    "word": "なかよしセンセーション",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "プリコネRのイベントED曲",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "pronounce": "とりっくほりっく",
+    "word": "トリックホリック",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "プリコネRのイベントED曲",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "pronounce": "いんふれいむず",
+    "word": "in flames",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "プリコネRのイベントED曲",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "pronounce": "こーるみーだーりんぐ",
+    "word": "Call me Darling!",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "プリコネRのイベントED曲",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "pronounce": "さいこうすたーとだっしゅ",
+    "word": "SAI*KOUスタートダッシュ",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "プリコネRのイベントED曲",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "pronounce": "こもれびもんたーじゅ",
+    "word": "木もれびモンタージュ",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "プリコネRのイベントED曲",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "pronounce": "ぐれーとじゃーにー",
+    "word": "Great Journey",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "プリコネRのイベントED曲",
         "auto": false
       }
     ]
