@@ -852,6 +852,20 @@
     ]
   },
   {
+    "pronounce": "ユニ",
+    "word": "ゆに",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "真行寺由仁"
+        ]
+      }
+    ]
+  },
+  {
     "pronounce": "より",
     "word": "ヨリ",
     "speech": "person",
