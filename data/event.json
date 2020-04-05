@@ -262,5 +262,16 @@
         "auto": false
       }
     ]
+  },
+  {
+    "pronounce": "さずけのえんじぇるとせいなるがくしゃのりせえんぬ",
+    "word": "授けの財団と聖なる学舎の異端児",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "プリコネRのストーリーイベント",
+        "auto": false
+      }
+    ]
   }
 ]
