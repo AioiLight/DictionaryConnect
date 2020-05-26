@@ -459,6 +459,20 @@
     ]
   },
   {
+    "pronounce": "ちえる",
+    "word": "チエル",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "風間ちえる"          
+        ]
+      }
+    ]
+  },
+  {
     "pronounce": "ちか",
     "word": "チカ",
     "speech": "person",
