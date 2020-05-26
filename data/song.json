@@ -405,5 +405,27 @@
         "auto": false
       }
     ]
+  },
+  {
+    "pronounce": "せいしゅんすぴなー",
+    "word": "青春スピナー",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "プリコネRのイベントED曲",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "pronounce": "はーとふるぷれいす",
+    "word": "Heartful Place",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "プリコネRのイベントED曲",
+        "auto": false
+      }
+    ]
   }
 ]
