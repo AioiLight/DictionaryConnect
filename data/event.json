@@ -273,5 +273,16 @@
         "auto": false
       }
     ]
+  },
+  {
+    "pronounce": "まきばのよんのうしびんぼうぼくじょうふんとうき",
+    "word": "まきばの四農士 貧乏牧場奮闘記！",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "プリコネRのストーリーイベント",
+        "auto": false
+      }
+    ]
   }
 ]
