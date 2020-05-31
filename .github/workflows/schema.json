@@ -11,8 +11,7 @@
         "required": [
           "pronounce",
           "word",
-          "speech",
-          "comments"
+          "speech"
         ],
         "properties": {
           "pronounce": {
@@ -47,10 +46,6 @@
                 {
                   "type": "object",
                   "title": "各コメント・自動置換",
-                  "required": [
-                    "comment",
-                    "auto"
-                  ],
                   "properties": {
                     "comment": {
                       "type": "string",
