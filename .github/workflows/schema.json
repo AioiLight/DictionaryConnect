@@ -1,0 +1,77 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "type": "array",
+  "title": "DictonaryMate の JSON スキーマ",
+  "uniqueItems": true,
+  "items": {
+    "anyOf": [
+      {
+        "type": "object",
+        "title": "各要素",
+        "required": [
+          "pronounce",
+          "word",
+          "speech",
+          "comments"
+        ],
+        "properties": {
+          "pronounce": {
+            "type": "string",
+            "title": "読み"
+          },
+          "word": {
+            "type": "string",
+            "title": "単語"
+          },
+          "speech": {
+            "type": "string",
+            "title": "品詞",
+            "enum": [
+              "noun",
+              "proper",
+              "family",
+              "name",
+              "person",
+              "place",
+              "org",
+              "short",
+              "emoji"
+            ]
+          },
+          "comments": {
+            "type": "array",
+            "title": "要素のコメント・自動置換",
+            "uniqueItems": true,
+            "items": {
+              "anyOf": [
+                {
+                  "type": "object",
+                  "title": "各コメント・自動置換",
+                  "required": [
+                    "comment",
+                    "auto"
+                  ],
+                  "properties": {
+                    "comment": {
+                      "type": "string",
+                      "title": "コメント"
+                    },
+                    "replace": {
+                      "type": "array",
+                      "title": "ATOK で使用する自動置換",
+                      "uniqueItems": true
+                    },
+                    "auto": {
+                      "type": "boolean",
+                      "title": "自動置換するかどうか"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}
