@@ -251,5 +251,19 @@
         ]
       }
     ]
+  },
+  {
+    "pronounce": "れいじれぎおん",
+    "word": "レイジ・レギオン",
+    "speech": "org",
+    "comments": [
+      {
+        "comment": "プリコネのギルド名",
+        "auto": false,
+        "replace": [
+          "【レイジ・レギオン】"
+        ]
+      }
+    ]
   }
 ]
