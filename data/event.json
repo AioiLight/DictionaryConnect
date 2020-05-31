@@ -284,5 +284,16 @@
         "auto": false
       }
     ]
+  },
+  {
+    "pronounce": "ふしぎのくにのりのちいさなありすときぼうのえほん",
+    "word": "不思議の国のリノ 小さなアリスと希望の絵本",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "プリコネRのストーリーイベント",
+        "auto": false
+      }
+    ]
   }
 ]
