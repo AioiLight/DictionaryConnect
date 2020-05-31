@@ -427,5 +427,16 @@
         "auto": false
       }
     ]
+  },
+  {
+    "pronounce": "ふぇありーているはゆめのなか",
+    "word": "フェアリーテイルは夢の中",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "プリコネRのイベントED曲",
+        "auto": false
+      }
+    ]
   }
 ]
