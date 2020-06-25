@@ -10,4 +10,5 @@ jobs:
       - name: Validate JSON
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
+          INPUT_SCHEMA: /.github/workflows/schema.json
           INPUT_JSONS: /data/event.json,/data/guild.json,/data/other.json,/data/playable.json,/data/song.json
