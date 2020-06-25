@@ -125,6 +125,20 @@
     ]
   },
   {
+    "pronounce": "いのり",
+    "word": "イノリ",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "一ノ瀬祈梨"
+        ]
+      }
+    ]
+  },
+  {
     "pronounce": "いりや",
     "word": "イリヤ",
     "speech": "person",
@@ -469,7 +483,7 @@
         "comment": "プリコネのキャラクター",
         "autoReplace": false,
         "replace": [
-          "風間ちえる"          
+          "風間ちえる"
         ]
       }
     ]
