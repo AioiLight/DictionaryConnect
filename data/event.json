@@ -295,5 +295,16 @@
         "auto": false
       }
     ]
+  },
+  {
+    "pronounce": "たなばたけんかくりょじょうたんそらにながれるなつのこい",
+    "word": "七夕剣客旅情譚 天に流れる夏の恋",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "プリコネRのストーリーイベント",
+        "auto": false
+      }
+    ]
   }
 ]
