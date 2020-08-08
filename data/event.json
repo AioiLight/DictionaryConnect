@@ -306,5 +306,16 @@
         "auto": false
       }
     ]
+  },
+  {
+    "pronounce": "みさとさまーえーるゆめおうまなつのないん",
+    "word": "ミサトサマーエール！夢追う真夏のナイン",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "プリコネRのストーリーイベント",
+        "auto": false
+      }
+    ]
   }
 ]
