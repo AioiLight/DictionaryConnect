@@ -917,6 +917,20 @@
     ]
   },
   {
+    "pronounce": "らびりすた",
+    "word": "ラビリスタ",
+    "speech": "person",
+    "comments": [
+      {
+        "comment": "プリコネのキャラクター",
+        "autoReplace": false,
+        "replace": [
+          "模索路晶"
+        ]
+      }
+    ]
+  },
+  {
     "pronounce": "らむ",
     "word": "ラム",
     "speech": "person",
