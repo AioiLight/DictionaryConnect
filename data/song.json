@@ -438,5 +438,27 @@
         "auto": false
       }
     ]
+  },
+  {
+    "pronounce": "たなばたけんきゃくりょじょうたんてんにながれるなつのこい",
+    "word": "七夕剣客旅情譚 天に流れる夏の恋",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "プリコネRのイベントED曲",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "pronounce": "あのなつのめもりー",
+    "word": "あの夏のメモリー",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "プリコネRのイベントED曲",
+        "auto": false
+      }
+    ]
   }
 ]
