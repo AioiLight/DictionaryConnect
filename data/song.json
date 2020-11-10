@@ -471,5 +471,16 @@
         "auto": false
       }
     ]
+  },
+  {
+    "pronounce": "ぱらどっくす",
+    "word": "Paradox",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "プリコネRのイベントED曲",
+        "auto": false
+      }
+    ]
   }
 ]
