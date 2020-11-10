@@ -328,5 +328,16 @@
         "auto": false
       }
     ]
+  },
+  {
+    "pronounce": "ひびけぜっきょうはろうぃんごーすとふぇすてぃばる",
+    "word": "響け！絶叫！ハロウィンゴーストフェスティバル",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "プリコネRのストーリーイベント",
+        "auto": false
+      }
+    ]
   }
 ]
