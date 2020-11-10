@@ -460,5 +460,16 @@
         "auto": false
       }
     ]
+  },
+  {
+    "pronounce": "ねぇねぇぷりーず",
+    "word": "ねぇねぇPlease！",
+    "speech": "proper",
+    "comments": [
+      {
+        "comment": "プリコネRのイベントED曲",
+        "auto": false
+      }
+    ]
   }
 ]
